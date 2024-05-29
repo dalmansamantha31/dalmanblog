@@ -1,0 +1,36 @@
+header {
+	background-color: #FFBFA9;
+	color: #b30027;
+	padding: 20px;
+}
+nav ul li {
+	display: inline;
+	margin-right: 20px;
+}
+nav ul li a {
+	color:#b30027;
+	text-decoration: none;
+}
+body {
+	text-align: center;
+	padding: 100px 20px;
+	background-color: #FFEBB4;;
+	width: 100%;
+}
+.gallery {
+	display: inline-block;
+	border: 1px solid #cc4970;
+	margin: 5px
+	width 250px
+}
+.gallery .description{
+	padding: 10px;
+	text-align: center;
+}
+.gallery:hover {
+	border: 1px solid #880029;
+}
+.gallery img{
+	width: 50%;
+	height: 50%;
+}

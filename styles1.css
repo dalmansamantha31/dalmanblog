@@ -1,0 +1,45 @@
+* {
+	box-sizing: border-box ;
+}
+/* Header styles */
+/* Header styles */
+header {
+	background-color: #FFBFA9;
+	color: #b30027;
+	padding: 20px;
+}
+nav ul li {
+	display: inline;
+	margin-right: 20px;
+}
+nav ul li a {
+	color:#b30027;
+	text-decoration: none;
+}
+/* Main section styles */
+body {
+	padding: 100px 20px;
+	background-color: #FFEBB4;;
+	width: 100%;
+}
+h1 {
+    background-color: #FDAF7B;
+    color: #D61C4E;
+    padding: 25px;
+	text-align: center;
+}
+
+aside {
+	width: 40%;
+	float: left;
+	padding: 10px;
+}
+article {
+	width: 50%;
+	float: left;
+	padding: 10px;
+}
+.bottom {
+	float: inline-end;
+	padding: 80px 20px;
+}
